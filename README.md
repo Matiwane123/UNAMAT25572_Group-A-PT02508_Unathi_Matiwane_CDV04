@@ -22,4 +22,4 @@ Vulindlela is seeking a motivated Junior React Developer to assist in building t
 
 ### Link to Cover Letter
 
-[Your Google Docs Cover Letter](<file:///C:/Users/matiw/Downloads/Untitled%20cover%20letter%20(1).pdf>)
+[Your Google Docs Cover Letter](cover-letter.pdf)
